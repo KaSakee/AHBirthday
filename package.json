@@ -1,0 +1,26 @@
+{
+  "name": "ahbirthday",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaSakee/AHBirthday.git"
+  },
+  "author": "JisonHyun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KaSakee/AHBirthday/issues"
+  },
+  "homepage": "https://github.com/KaSakee/AHBirthday#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.1",
+    "http": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
